@@ -1,3 +1,7 @@
+## Why it's been forked?
+Android 12 requires android:exported value must be given to all activity, service and intent's used in AndroidManifest but latest Countly npm version didn't have this update.
+
+
 ## What's Countly?
 [Countly](http://count.ly) is an innovative, real-time, open source mobile analytics and push notifications platform. It collects data from mobile devices, and visualizes this information to analyze mobile application usage and end-user behavior. There are two parts of Countly: [the server that collects and analyzes data](http://github.com/countly/countly-server), and mobile SDK that sends this data. Both parts are open source with different licensing terms.
 
